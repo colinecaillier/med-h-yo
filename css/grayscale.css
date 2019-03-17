@@ -304,15 +304,15 @@ h4{
 .contact-section .card hr {
   border-color: #fff;
   border-width: 0.25rem;
-  width: 5rem;
+  width: 1.2rem;
 }
 
 .contact-section .social {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
-.fab{
-  font-size:2rem;
+i{
+  font-size:1.5rem;
   text-align: center;
   color: rgb(100, 161, 157);
 
@@ -323,11 +323,11 @@ h4{
 }
 .contact-section .social a {
   text-align: center;
-  height: 5rem;
-  width: 5rem;
+  height: 4rem;
+  width: 4rem;
   background: rgba(255, 255, 255, 0.2);
   border-radius: 100%;
-  line-height: 6rem;
+  line-height: 4.5rem;
   color: rgba(100, 161, 157, 0.5);
 }
 
