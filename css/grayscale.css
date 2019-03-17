@@ -154,7 +154,7 @@ h2 {
   }
   .masthead h2 {
     max-width: 30rem;
-    font-size: 1.55rem;
+    font-size: 1.35rem;
    color: #52BBB5;
   }
 }
@@ -162,7 +162,7 @@ p{
   font-size:1,25em;
 }
 p.collection{
-  font-size:1.2rem;
+  font-size:1rem;
   text-align: left;
   padding: 0.3em;
 }
@@ -173,7 +173,7 @@ p.justifier{
 h4{
   font-family: 'karla', monospace;
   color:#6DB799;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 .btn {
   -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(68, 180, 255, 0.1) !important;
@@ -342,7 +342,7 @@ h4{
 body {
   font-family: 'Karla', sans-serif;
   letter-spacing: 0.0625em;
-  font-size:1.2rem;
+  font-size:1rem;
 }
 
 a {
