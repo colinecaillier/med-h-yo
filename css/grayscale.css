@@ -121,7 +121,7 @@
 .masthead h2, 
 h2 {
   max-width: 20rem;
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #6DB799;
 }
 
@@ -137,9 +137,14 @@ h2 {
 }
 @media (min-width: 768px) {
   .masthead h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 4rem;
   }
+}
+
+.card{
+  background-color: rgba(229, 240, 243,0.5);
+  border: none;
 }
 
 @media (min-width: 992px) {
@@ -148,21 +153,21 @@ h2 {
     padding: 0;
   }
   .masthead h1 {
-    font-size: 6.5rem;
-    line-height: 6.5rem;
+    font-size: 5.5rem;
+    line-height: 5.5rem;
     letter-spacing: 0.8rem;
   }
   .masthead h2 {
     max-width: 30rem;
-    font-size: 1.35rem;
+    font-size: 1.1rem;
    color: #52BBB5;
   }
 }
 p{
-  font-size:1,25em;
+  font-size:0.9em;
 }
 p.collection{
-  font-size:1rem;
+  font-size:0.8rem;
   text-align: left;
   padding: 0.3em;
 }
@@ -173,7 +178,7 @@ p.justifier{
 h4{
   font-family: 'karla', monospace;
   color:#6DB799;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .btn {
   -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(68, 180, 255, 0.1) !important;
@@ -213,7 +218,7 @@ h4{
 
 .about-section p {
   margin-bottom: 5rem;
-}f
+}
 
 .projects-section {
   padding: 10rem 0;
@@ -239,7 +244,7 @@ h4{
 
 .projects-section .project-text, 
 .about-section .project-text {
-  padding: 3rem;
+  padding: 1rem;
   font-size: 100%;
 }
 
